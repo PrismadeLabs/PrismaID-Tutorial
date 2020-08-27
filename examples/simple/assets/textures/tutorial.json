@@ -1,0 +1,77 @@
+{
+
+"images": [
+    "assets/textures/tutorial-0.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 3750, 446, 0, 0, -1],
+    [1, 449, 537, 920, 0, -1, -1],
+    [540, 449, 265, 500, 0, -1, -1],
+    [540, 951, 609, 417, 0, 0, 0],
+    [807, 449, 478, 319, 0, 0, -1],
+    [807, 770, 151, 152, 0, 0, 0],
+    [807, 924, 111, 14, 0, 0, 0],
+    [807, 940, 39, 8, 0, 0, 0],
+    [848, 940, 20, 8, 0, 0, 0],
+    [920, 924, 111, 14, 0, 0, 0],
+    [960, 770, 202, 142, 0, 0, 0],
+    [1033, 914, 50, 33, 0, 0, 0],
+    [1085, 914, 194, 32, 0, 0, 0],
+    [1164, 770, 96, 96, 0, 0, 0],
+    [1164, 868, 182, 31, 0, 0, 0],
+    [1262, 770, 93, 93, 0, -1, -1],
+    [1287, 449, 429, 301, 0, 0, 0],
+    [1287, 752, 111, 14, 0, 0, 0],
+    [1151, 948, 328, 265, 0, 0, 0],
+    [1348, 865, 79, 80, 0, 0, 0],
+    [1357, 768, 366, 90, 0, -1, -1],
+    [1400, 752, 110, 14, 0, 0, 0],
+    [1429, 860, 353, 46, 0, 0, 0],
+    [1718, 449, 198, 265, 0, 0, 0],
+    [1725, 716, 284, 89, 0, 0, 0],
+    [1918, 449, 166, 257, 0, 0, 0],
+    [1481, 908, 218, 244, 0, 0, 0],
+    [1481, 1154, 293, 186, 0, 0, 0],
+    [1701, 908, 60, 231, 0, 0, 0]
+],
+
+"animations": {
+    "background_wave": { "frames": [0] },
+    "common/box": { "frames": [1] },
+    "common/phone": { "frames": [2] },
+    "common/small_box": { "frames": [3] },
+    "finish/finish_video": { "frames": [4] },
+    "placement/place_cross_1": { "frames": [5] },
+    "hold/hold_menu": { "frames": [6] },
+    "placement/place_line-right": { "frames": [7] },
+    "placement/place_line-wrong": { "frames": [8] },
+    "placement/place_menu": { "frames": [9] },
+    "placement/place_check_1": { "frames": [10] },
+    "common/weiter_arrow": { "frames": [11] },
+    "placement/place_phone-01_1": { "frames": [12] },
+    "hold/hold_thumb-point": { "frames": [13] },
+    "placement/place_phone-02_3": { "frames": [14] },
+    "common/weiter": { "frames": [15] },
+    "common/finger": { "frames": [16] },
+    "swipe/swipe_menu": { "frames": [17] },
+    "common/hand": { "frames": [18] },
+    "common/back-button": { "frames": [19] },
+    "finish/finish_box_2": { "frames": [20] },
+    "finish/finish_menu": { "frames": [21] },
+    "common/logo": { "frames": [22] },
+    "placement/place_hand-02": { "frames": [23] },
+    "welcome/welcome_weiter": { "frames": [24] },
+    "common/card": { "frames": [25] },
+    "common/thumb": { "frames": [26] },
+    "placement/place_hand-01": { "frames": [27] },
+    "common/arrow": { "frames": [28] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:2ac8c06db31085c7fc47940561f54535:f98e9bebbea2b8caa32d997067c495f7:1d3847be8e2417cc1035eefe401cd732$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
